@@ -14,4 +14,4 @@ step 2)
 Download and set path image
 
 step 3)
-Run face_detection.py file
+Run face_detect.py file
